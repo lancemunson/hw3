@@ -2,3 +2,17 @@ html {
     text-align: center;
     padding: 2rem;
 }
+
+img {
+    height:20rem;
+    width:20rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nutritionButton {
+    background-color: rgb(54, 228, 48);
+    width: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+}
